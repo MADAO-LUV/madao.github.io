@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 gem "github-pages", group: :jekyll_plugins
-<<<<<<< HEAD
+
 # 你的求职方向，比如：前端开发工程师等
 title: 前端开发工程师等
 # 你的美照地址
