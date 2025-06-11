@@ -2,26 +2,26 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-gem "github-pages", group: :jekyll_plugins
+
 
 # 你的求职方向，比如：前端开发工程师等
-title: 前端开发工程师等
+title: 嵌入式软件工程师
 # 你的美照地址
-logo: asserts/images/me.jpg
+logo: mypages/mypp.png
 # 你的名字
-name: 张三
+name: 陈睿宇
 # 你的联系方式
-phone: 188888888888
+phone: 19868607620
 # 你的邮箱
-email: LeBron@unkown.com
+email: 3335075714@qq.com
 # 你目前的住址
-address: 北京中南海
+address: 广东省东莞市石龙镇嘉华星际湾
 # 你毕业院校
-school: 清华大学
+school: 东莞理工学院
 # 你的专业
-profession: 国际贸易与经济
+profession: 计算机科学与技术
 # 你的学位
-degree: 硕士学位
+degree: 本科学士学位
 # 你获得过的证书或奖励
-credential: 英语六级/计算机三级
+credential: CET-4/CET-6/工业互联网嵌入式开发工程师初级
 
