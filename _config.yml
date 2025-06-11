@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 gem "github-pages", group: :jekyll_plugins
+<<<<<<< HEAD
 # 你的求职方向，比如：前端开发工程师等
 title: 前端开发工程师等
 # 你的美照地址
@@ -23,3 +24,6 @@ profession: 国际贸易与经济
 degree: 硕士学位
 # 你获得过的证书或奖励
 credential: 英语六级/计算机三级
+=======
+
+>>>>>>> 7fb7a5d8f44be2fdf5003c5d990613f5b5b1ee10
