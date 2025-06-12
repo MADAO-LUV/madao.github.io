@@ -65,3 +65,15 @@ Flutter、FreeRTOS
 - 完整实现了FreeRTOS系统下的任务调度和传感器数据处理逻辑
 - 优化了数据处理逻辑，提高数据处理效率
 - 移动端从物联网服务间接与嵌入式端进行数据通信，实现数据展示与提醒功能
+
+## 实习意向
+
+- **职位目标**：嵌入式软件实习生 / RTOS驱动开发 / 智能设备开发方向
+- **可到岗时间**：2025年8月底，可长期实习
+- **期望城市**：深圳、广州、杭州等地
+
+## 联系方式
+
+- 📧 Email: madaoluv@gmail.com
+- 📁 GitHub: [MADAO-LUV](https://github.com/MADAO-LUV)
+- 🔗 Blog: [MADAO-LUV](https://madao-luv.github.io/)
